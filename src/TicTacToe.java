@@ -1,3 +1,14 @@
+/**********************************************************************
+ * Bonjour --                                                         *
+ *                                                                    *
+ * Auteurs:     Youssef Abali, Achraf Hamidi, Omar Maanaoui           *
+ *                                                                    *
+ * Objectif:    Jouer au jeu Tic Tac Toe                              *
+ *                                                                    *
+ * Usage:       Exécute le programme et la fenêtre de jeu apparaît.   *
+ *                                                                    *
+ *********************************************************************/
+
 import java.awt.font.*;
 import java.awt.*;
 import java.awt.event.*;
